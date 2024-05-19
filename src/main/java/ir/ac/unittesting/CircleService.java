@@ -11,6 +11,6 @@ public class CircleService {
         return 3.14E00 * r* r;
     }
     public void log(){
-        System.out.println("skip this");
+        System.out.println("circle logging");
     }
 }
